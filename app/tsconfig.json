@@ -1,0 +1,5 @@
+{
+  "compilerOptions": {   "module": "commonjs",
+  "moduleResolution": "node",},
+  "extends": "expo/tsconfig.base"
+}
