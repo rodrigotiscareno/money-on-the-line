@@ -1,0 +1,44 @@
+server/venv
+money-on-the-line-firebase-config.json
+server/money-on-the-line-firebase-config.json
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.env
+.git
+
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Native
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo
